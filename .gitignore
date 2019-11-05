@@ -3,5 +3,5 @@ youtube-dataset/*
 .ipynb_checkpoints/*
 appened_dataset/*
 youtube-dataset/*
-query_result
+query_result/*
 final_result/archive/*
